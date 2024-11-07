@@ -31,3 +31,7 @@ https://en.wikipedia.org/wiki/Data_augmentation
 https://paperswithcode.com/
 
 https://transformer-circuits.pub/
+
+# Data *
+
+https://www.cs.toronto.edu/~kriz/cifar.html
