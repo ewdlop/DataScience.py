@@ -32,6 +32,10 @@ https://paperswithcode.com/
 
 https://transformer-circuits.pub/
 
+## warnings
+
+https://adoption.microsoft.com/en-us/enabling-modern-collaboration/
+
 # Data *
 
 https://www.cs.toronto.edu/~kriz/cifar.html
