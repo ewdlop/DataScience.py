@@ -10,6 +10,8 @@ https://github.com/dotnet/spark
 
 https://azure.microsoft.com/en-us/products/databricks
 
+https://paperswithcode.com/dataset/coco
+
 ## Synthetic_data
 
 https://en.wikipedia.org/wiki/Synthetic_data
